@@ -1,5 +1,6 @@
 # Capstone-project
 ### README for Fashion Trend Prediction Using CLIP and t-SNE
+## link to notbook: https://colab.research.google.com/drive/19PrFO4xo8xqwX6VCLhv-MFg-keq_wMZU?usp=sharing
 
 ---
 
