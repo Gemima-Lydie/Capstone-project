@@ -1,0 +1,13 @@
+torch
+clip-anytorch
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+Pillow
+tqdm
+regex
+ftfy
